@@ -9,11 +9,17 @@ I've made countless projects that is not worth mentioning beside the one that I'
 </div>
 <br>
 
-<p align="center">
-I'm currently switching over to web development in order to hone my programming skill even more! ⚙️<br>
-  I started my journey into web dev around <b>July 2022</b>, until now, I've made a number of projects so far, in which most of them consist of personal sites made for friends.
-</p>
+###
 
+<img align="left" height="200" src="https://thumbs.gfycat.com/TidyResponsibleGartersnake-max-1mb.gif"  />
+
+###
+
+<p align="left"> I'm currently switching over to web development in order to hone my programming skill even more! ⚙️<br>I started my journey into web dev around July 2022, until now, I've made a number of projects so far, in which most of them consist of personal sites made for friends.</p>
+
+###
+
+<br clear="both">
 
 <h1>What I've learnt - My Skillset</h1>
 I'm lucky enough to have a background in <u>Game Development</u>, it makes it a breeze to learn another programming language like javascript as I have already grasp most of programming concepts.
