@@ -43,9 +43,8 @@ in the span of July 2022 - Nov 2022, I have gone from barely knowing anything ab
 
 <br>
 <h2>I'm Currently Learning/Working On</h2>
-<h2>I'm Currently Learning/Working On</h2>
 In any practice, Fundamentals is the most important to grasp as such, I'm now making a bunch of **vanilla JavaScript** project before jumping into a framework.
-I'm also currently researching about web development using wordpress for a freelance opportunities
+I'm also currently researching about web development using wordpress for a freelance opportunities.
 
 <h2>I will be learning - Queue</h2>
 Going forward, I'm planning to tackle a JavaScript frameworks and a number of related technologies along with it:
