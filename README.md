@@ -2,16 +2,19 @@
 <p align="center">I'm a self-taught web & game developer. I've been developing games for over 5+ years in my spare times.<br>
 I've made countless projects that is not worth mentioning beside the one that I've published on playstore. 
 <a href="https://play.google.com/store/apps/details?id=com.Shubamium.Ligma">You can try it out here!</a></p>
+
 <br>
+<img align="left" height="200" src="https://thumbs.gfycat.com/TidyResponsibleGartersnake-max-1mb.gif"  />
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&username=shubamium" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&username=shubamium" height="150" alt="languages graph"  />
 </div>
+
+<br>
 <br>
 
 ###
 
-<img align="left" height="200" src="https://thumbs.gfycat.com/TidyResponsibleGartersnake-max-1mb.gif"  />
 
 ###
 
@@ -20,6 +23,10 @@ I've made countless projects that is not worth mentioning beside the one that I'
 ###
 
 <br clear="both">
+<div align="center">
+  <img src="https://leetcard.jacoblin.cool/Shubamium">
+</div>
+
 
 <h1>What I've learnt - My Skillset</h1>
 I'm lucky enough to have a background in <u>Game Development</u>, it makes it a breeze to learn another programming language like javascript as I have already grasp most of programming concepts.
@@ -29,7 +36,6 @@ in the span of July 2022 - Nov 2022, I have gone from barely knowing anything ab
 <br>
 
 ###
-
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" width="52" alt="html5 logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" width="52" alt="css3 logo"  />
@@ -38,7 +44,6 @@ in the span of July 2022 - Nov 2022, I have gone from barely knowing anything ab
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" width="52" alt="php logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" width="52" alt="mysql logo"  />
 </div>
-
 ###
 
 <br>
