@@ -10,22 +10,20 @@ I've made countless projects that is not worth mentioning beside the one that I'
   <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&username=shubamium" height="150" alt="languages graph"  />
 </div>
 
-<br>
-<br>
+<br clear="both">
 
 ###
 
 
 ###
-
-<p align="left"> I'm currently switching over to web development in order to hone my programming skill even more! ⚙️<br>I started my journey into web dev around July 2022, until now, I've made a number of projects so far, in which most of them consist of personal sites made for friends.</p>
-
-###
+<div>
+<p> I'm currently switching over to web development in order to hone my programming skill even more! ⚙️<br>I started my journey into web dev around July 2022, until now, I've made a number of projects so far, in which most of them consist of personal sites made for friends.</p>
+<img align="left" style="float:right;" src="https://leetcard.jacoblin.cool/Shubamium">
+</div>
 
 <br clear="both">
-<div align="center">
-  <img src="https://leetcard.jacoblin.cool/Shubamium">
-</div>
+
+
 
 
 <h1>What I've learnt - My Skillset</h1>
