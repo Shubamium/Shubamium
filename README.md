@@ -1,4 +1,7 @@
 <h1 align="center">👋 Hi, Hello There! I'm Shubamium 🐧</h1>
+<div align="center">
+<img align="center" src="https://i.pinimg.com/originals/15/e7/e3/15e7e300166c962d3b8a22f60b5cac9e.gif">
+</div>
 <p align="center">I'm a self-taught web & game developer. I've been developing games for over 5+ years in my spare times.<br>
 I've made countless projects that is not worth mentioning beside the one that I've published on playstore. 
 <a href="https://play.google.com/store/apps/details?id=com.Shubamium.Ligma">You can try it out here!</a></p>
@@ -6,7 +9,7 @@ I've made countless projects that is not worth mentioning beside the one that I'
 <br>
 <img align="left" height="200" src="https://thumbs.gfycat.com/TidyResponsibleGartersnake-max-1mb.gif"  />
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&username=shubamium" width="300" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&username=shubamium" width="290" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&username=shubamium" width="300" height="150" alt="languages graph"  />
 </div>
 
@@ -46,7 +49,7 @@ in the span of July 2022 - Nov 2022, I have gone from barely knowing anything ab
 
 <br>
 <h2>I'm Currently Learning/Working On</h2>
-In any practice, Fundamentals is the most important to grasp as such, I'm now making a bunch of *vanilla JavaScript* project before jumping into a framework.
+In any practice, Fundamentals is the most important to grasp as such, I'm now making a bunch of <b>vanilla JavaScript</b>project before jumping into a framework.
 I'm also currently researching about web development using wordpress for a freelance opportunities.
 
 <h2>I will be learning - Queue</h2>
