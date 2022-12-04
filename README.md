@@ -2,7 +2,7 @@
 <div align="center">
 <img align="center" src="https://i.ibb.co/WBsz5kz/ezgif-com-gif-maker.gif">
 </div>
-<p align="center">I'm a self-taught web & game developer. I've been developing games for over 5+ years in my spare times.<br>
+<p align="center">I'm a self-taught web & game developer. I've been passionately developing games for over 5+ years in my spare times.<br>
 I've made countless projects that is not worth mentioning beside the one that I've published on playstore. 
 <a href="https://play.google.com/store/apps/details?id=com.Shubamium.Ligma">You can try it out here!</a></p>
 
@@ -51,7 +51,8 @@ in the span of July 2022 - Nov 2022, I have gone from barely knowing anything ab
 <h2>I'm Currently Learning/Working On</h2>
 In any practice, Fundamentals is the most important to grasp as such, I'm now making a bunch of <b>vanilla JavaScript</b>project before jumping into a framework.
 I'm also currently researching about web development using wordpress for a freelance opportunities.
-
+So basically:
+<img src="https://media.tenor.com/rS-u5lIUQWsAAAAC/anime-coding.gif">
 <h2>I will be learning - Queue</h2>
 Going forward, I'm planning to tackle a JavaScript frameworks and a number of related technologies along with it:
   
