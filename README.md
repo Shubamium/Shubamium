@@ -1,6 +1,6 @@
 <h1 align="center">👋 Hi, Hello There! I'm Shubamium 🐧</h1>
 <div align="center">
-<img align="center" src="https://i.pinimg.com/originals/15/e7/e3/15e7e300166c962d3b8a22f60b5cac9e.gif">
+<img align="center" src="https://i.ibb.co/WBsz5kz/ezgif-com-gif-maker.gif">
 </div>
 <p align="center">I'm a self-taught web & game developer. I've been developing games for over 5+ years in my spare times.<br>
 I've made countless projects that is not worth mentioning beside the one that I've published on playstore. 
