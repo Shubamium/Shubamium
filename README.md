@@ -36,7 +36,7 @@ in the span of July 2022 - Nov 2022, I have gone from barely knowing anything ab
 
 <br>
 
-###
+
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" width="52" alt="html5 logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" width="52" alt="css3 logo"  />
@@ -45,17 +45,17 @@ in the span of July 2022 - Nov 2022, I have gone from barely knowing anything ab
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" width="52" alt="php logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" width="52" alt="mysql logo"  />
 </div>
-###
+
 
 <br>
 <h2>I'm Currently Learning/Working On</h2>
-In any practice, Fundamentals is the most important to grasp as such, I'm now making a bunch of <b>vanilla JavaScript</b>project before jumping into a framework.
-I'm also currently researching about web development using wordpress for a freelance opportunities.
-So basically:
+In any practice, Fundamentals is the most important to grasp. as such, I'm now making a bunch of <b>Vanilla JavaScript</b> project before jumping into a framework.
+I'm also currently researching about web development using wordpress for a freelance opportunities. I have a website gigs at fiverr, check it out <a href="https://www.fiverr.com/shubamium">here!</a>
+
+So basically:<br>
 <img src="https://media.tenor.com/rS-u5lIUQWsAAAAC/anime-coding.gif">
-<h2>I will be learning - Queue</h2>
-Going forward, I'm planning to tackle a JavaScript frameworks and a number of related technologies along with it:
-  
+<h2>What I will be learning in 2022</h2>
+Going forward, I'm planning to tackle a JavaScript frameworks and a number of related technologies along with it to hopefully get a junior role for a web developer job.
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" width="42" alt="react logo"  />
 
 
