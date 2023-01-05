@@ -54,7 +54,7 @@ I'm also currently researching about web development using wordpress for a freel
 
 So basically:<br>
 <img src="https://media.tenor.com/rS-u5lIUQWsAAAAC/anime-coding.gif">
-<h2>What I will be learning in 2022</h2>
+<h2>What I will be learning in 2023</h2>
 Going forward, I'm planning to tackle a JavaScript frameworks and a number of related technologies along with it to hopefully get a junior role for a web developer job.
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" width="42" alt="react logo"  />
 
