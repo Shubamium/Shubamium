@@ -30,7 +30,7 @@ I've made countless projects that is not worth mentioning beside the one that I'
 
 
 <h1>What I've learnt - My Skillset</h1>
-I'm lucky enough to have a background in <u>Game Development</u>, it makes it a breeze to learn another programming language like javascript as I have already grasp most of programming concepts.
+I was lucky enough to have a background in <u>Game Development</u>, it makes it a breeze to learn another programming language like javascript as I have already grasp most of programming concepts.
 <br>
 in the span of July 2022 - Nov 2022, I have gone from barely knowing anything about the web to being able to use these confidently:
 
