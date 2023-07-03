@@ -51,8 +51,7 @@ I was lucky enough to have a background in <u>Game Development</u>, it makes it 
 
 <br>
 <h2>I'm Currently Learning/Working On</h2>
-After I've gotten a basic overview of making a fullstack app, I'm looking to relearn Math & DSA to round up my skills in order to get a job. I'm also currently researching about web development using wordpress for a freelance opportunities. I have a website gigs at fiverr, check it out <a href="https://www.fiverr.com/shubamium">here!</a>
-
+After I've gotten a basic overview of making a fullstack app, I'm looking to relearn Math & DSA to round up my skills in order to get a job. I'm also trying to get my hands on a lot of backend stuff. I have a profile website design service at fiverr, check it out <a href="https://www.fiverr.com/shubamium">here!</a>
 
 
 
