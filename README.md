@@ -2,7 +2,7 @@
 <div align="center">
 <img align="center" src="https://i.pinimg.com/originals/a0/d5/81/a0d581666d26dd9c66bf8ed395cba948.gif">
 </div>
-<p align="center">I'm a self-taught web & game developer. I've been passionately developing games for over 5+ years in my spare times.<br> I'm now migrating over to Web development world to hopefuly attain an entry level job!</p>
+<p align="center">I'm a self-taught web & game developer. I've been passionately developing games for practically all of my school days in my spare times.<br> I'm now migrating over to Web development world to hopefuly attain an entry level job!</p>
 
 # The stack I use now are:
 - React
