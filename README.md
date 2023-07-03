@@ -6,7 +6,9 @@
 <p>I'm now migrating over to Web development world to hopefuly attain an entry level job!</p>
 
 ### Web Dev
-I mostly do profiles websites. The stack I use now are:
+<p> I'm currently switching over to web development in order to hone my programming skill even more! ⚙️<br>I started my journey into web dev around July 2022, until now, I've made a number of project so far and will be pumping out more projects as I go. I mostly do profiles websites for freelancing. </p>
+
+# The stack I use now are:
 - React
 - Styled Component / SCSS
 - Firebase
@@ -29,8 +31,6 @@ I've made countless projects that is not worth mentioning beside the one that I'
 
 ###
 <div>
-<p> I'm currently switching over to web development in order to hone my programming skill even more! ⚙️<br>I started my journey into web dev around July 2022, until now, I've made a number of projec  ts so far, in which most of them consist of personal sites made for friends.</p>
-
 ## Data Structures
 <p>I'm planning to learn DSA for interview, for now this is my current progress. I hope to be able clear out more as I go:</p>
 <img align="left" style="float:right;" src="https://leetcard.jacoblin.cool/Shubamium">
