@@ -20,7 +20,10 @@ I've made countless projects that is not worth mentioning beside the one that I'
 
 ###
 <div>
-<p> I'm currently switching over to web development in order to hone my programming skill even more! ⚙️<br>I started my journey into web dev around July 2022, until now, I've made a number of projects so far, in which most of them consist of personal sites made for friends.</p>
+<p> I'm currently switching over to web development in order to hone my programming skill even more! ⚙️<br>I started my journey into web dev around July 2022, until now, I've made a number of projec  ts so far, in which most of them consist of personal sites made for friends.</p>
+
+## Data Structures
+<p>I'm planning to learn DSA for interview, for now this is my current progress. I hope to be able clear out more as I go:</p>
 <img align="left" style="float:right;" src="https://leetcard.jacoblin.cool/Shubamium">
 </div>
 
