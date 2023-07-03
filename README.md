@@ -2,8 +2,17 @@
 <div align="center">
 <img align="center" src="https://i.ibb.co/WBsz5kz/ezgif-com-gif-maker.gif">
 </div>
-<p align="center">I'm a self-taught web & game developer. I've been passionately developing games for over 5+ years in my spare times.<br>
-I've made countless projects that is not worth mentioning beside the one that I've published on playstore. 
+<p align="center">I'm a self-taught web & game developer. I've been passionately developing games for over 5+ years in my spare times.<br> 
+<p>I'm now migrating over to Web development world to hopefuly attain an entry level job!</p>
+
+### Web Dev
+I mostly do profiles websites. The stack I use now are:
+- React
+- Styled Component / SCSS
+- Firebase
+
+### Game Dev
+I've made countless projects that is not worth mentioning beside the one that I've published on playstore.
 <a href="https://play.google.com/store/apps/details?id=com.Shubamium.Ligma">You can try it out here!</a></p>
 
 <br>
