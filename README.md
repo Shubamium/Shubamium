@@ -33,7 +33,7 @@ I've made countless projects that is not worth mentioning (It's been mostly joke
 
 ## Data Structures
 <div>
-<p>I'm planning to learn DSA for interview, for now this is my current progress. I hope to be able clear out more as I go:</p>
+<p>I'm planning to learn DSA & Math for interviews, for now this is my current progress. I hope to be able clear out more as I go:</p>
 <img align="left" style="float:right;" src="https://leetcard.jacoblin.cool/Shubamium">
 </div>
 
