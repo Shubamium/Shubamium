@@ -8,6 +8,7 @@
 - React
 - Styled Component / SCSS
 - Firebase
+- Sanity.io 
 
 ### Web Dev
 <p> I'm currently switching over to web development in order to hone my programming skill even more! ⚙️<br>I started my journey into web dev around July 2022, until now, I've made a number of project so far and will be pumping out more projects as I go. I mostly do profiles websites for freelancing. </p>
