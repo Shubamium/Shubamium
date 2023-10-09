@@ -58,5 +58,4 @@ I was lucky enough to have a background in <u>Game Development</u>, it makes it 
 After I've gotten a basic overview of making a fullstack app, I'm looking to relearn Math & DSA to round up my skills in order to get a job. I'm also trying to get my hands on a lot of backend stuff. I have a profile website design service at fiverr, check it out <a href="https://www.fiverr.com/shubamium">here!</a>
 
 
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shubamium&show_icons=true&locale=en" alt="shubamium" /></p>
+![Shubamiums's GitHub stats](https://github-readme-stats.vercel.app/api?username=shubamium&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
