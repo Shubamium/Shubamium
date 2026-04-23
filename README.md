@@ -5,9 +5,9 @@ I'm a software engineer, 5⭐ Fiverr freelancer with 3+ years of experience deli
 
 > Currently learning: **Flutter** and working on a social network mobile app.
 
+> Feel free to contact me and say hi on discord!
+> Discord Username : **shubamium**
 
-Feel free to contact me and say hi on discord!
-Discord Username : **shubamium**
 ---
 
 ## 🚀 Portfolio
