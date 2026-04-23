@@ -11,6 +11,7 @@ Currently learning **Flutter** and working on a social network mobile app.
 - https://deliciarin.vercel.app/
 - https://lanyue.studio
 - https://otakugraphy.com
+- https://vfleetproject.com
 - https://varianceproject.com
 - https://keizukec.vercel.app
 - https://succububbles.vercel.app
