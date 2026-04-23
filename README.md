@@ -7,9 +7,10 @@ Currently learning **Flutter** and working on a social network mobile app.
 
 ## 🚀 Portfolio
 
-### 🧑‍💼 Client Projects
+### 🧑‍💼 Client Projects 
 - https://deliciarin.vercel.app/
 - https://lanyue.studio
+- https://otakugraphy.com
 - https://varianceproject.com
 - https://keizukec.vercel.app
 - https://succububbles.vercel.app
@@ -23,7 +24,10 @@ Currently learning **Flutter** and working on a social network mobile app.
 - https://fortunevstudios.com/
 - https://vsekaien.com
 - https://heartsync-live.com
-- https://otakugraphy.com
+- https://marimanagement.com
+- https://mawissuhtwo.vercel.app/
+- https://mari3d.vercel.app/
+
 - https://moxiesklubhouse.com/
 - https://asobuproduction.com
 
@@ -44,6 +48,7 @@ Currently learning **Flutter** and working on a social network mobile app.
 
 ### 💡 Personal Project
 - https://yoimiya.vercel.app
+- https://talala.vercel.app/
 
 ---
 
