@@ -17,6 +17,7 @@ Feel free to contact me and say hi on discord!
 
 ### 🧑‍💼 Client Projects 
 - https://varianceproject.com
+- https://echopulse-kappa.vercel.app
 - https://deliciarin.vercel.app/
 - https://lanyue.studio
 - https://otakugraphy.com
