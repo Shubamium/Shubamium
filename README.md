@@ -3,7 +3,7 @@
 ## 👋 I'm Shubamium
 I'm a software engineer, 5⭐ Fiverr freelancer with 3+ years of experience delivering high quality sites for clients in the VTuber industry.
 
-Currently learning: **Flutter** and working on a social network mobile app.
+```Currently learning: **Flutter** and working on a social network mobile app.```
 
 
 Feel free to contact me and say hi on discord!
