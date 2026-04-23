@@ -49,13 +49,11 @@ I'm a software engineer, 5⭐ Fiverr freelancer with 3+ years of experience deli
 ---
 
 ### 🌐 Personal Site Projects
+- https://venmiseventeen.vercel.app/
+- https://megistus.vercel.app/
 - https://shubamium.github.io/GivenAndaya/
 - https://daiki-sano.vercel.app
 - https://nhengen.netlify.app/
-
----
-
-### 💡 Personal Project
 - https://yoimiya.vercel.app
 - https://talala.vercel.app/
 
@@ -67,4 +65,4 @@ I'm a software engineer, 5⭐ Fiverr freelancer with 3+ years of experience deli
 - https://obligatory-weather-app.vercel.app/
 - https://recipe-app-five-ebon.vercel.app/
 - https://simple-rps-nu.vercel.app
-- https://megistus.vercel.app/
+
