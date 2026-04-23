@@ -3,6 +3,8 @@
 ## 👋 I'm Shubamium
 I'm a software engineer, 5⭐ Fiverr freelancer with 3+ years of experience delivering high quality sites for clients in the VTuber industry.
 
+`Typescript` and `Next.JS` is my bread and butter, but I'm always learning new things that's fun.
+
 > Currently learning: **Flutter** and working on a social network mobile app.
 
 > Feel free to contact me and say hi on discord!
@@ -18,13 +20,15 @@ I'm a software engineer, 5⭐ Fiverr freelancer with 3+ years of experience deli
 - https://otakugraphy.com
 - https://vfleetproject.com
 - https://varianceproject.com
+- https://vir2alverse.com/
+- https://pixel-link-170504.vercel.app
 - https://keizukec.vercel.app
 - https://succububbles.vercel.app
 - https://vartix3d.vercel.app
 - https://realmofora.com
 - https://nikulaswraith.com
 - https://classic.nikulaswraith.com
-- https://pixel-link-170504.vercel.app
+
 - https://gremlili-studio-git-main-shubamiums-projects.vercel.app
 - https://hikarisilver.vercel.app
 - https://fortunevstudios.com/
@@ -33,7 +37,6 @@ I'm a software engineer, 5⭐ Fiverr freelancer with 3+ years of experience deli
 - https://marimanagement.com
 - https://mawissuhtwo.vercel.app/
 - https://mari3d.vercel.app/
-
 - https://moxiesklubhouse.com/
 - https://asobuproduction.com
 
