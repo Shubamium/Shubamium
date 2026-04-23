@@ -1,6 +1,6 @@
 # Welcome to my github page!
-# I'm Shubamium
-Currently Learning **Flutter** working on a
+## I'm Shubamium
+Currently Learning **Flutter** working on a social network mobile app
 
 
 
