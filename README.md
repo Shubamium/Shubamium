@@ -3,7 +3,7 @@
 ## 👋 I'm Shubamium
 I'm a software engineer, 5⭐ Fiverr freelancer with 3+ years of experience delivering high quality sites for clients in the VTuber industry.
 
-`Typescript` and `Next.JS` is my bread and butter, but I'm always learning new things that's fun.
+`Typescript` and `Next.JS` is my bread and butter, but I'm always learning new things that help me build whatever I want.
 
 > Currently learning: **Flutter** and working on a social network mobile app.
 > Working on my own Vtuber Profile Website Maker - **Vtubox.co**
@@ -47,8 +47,7 @@ Feel free to contact me and say hi on discord!
 - https://succububbles.vercel.app/
 - https://delichan.vercel.app/
 - https://map.varianceproject.com/
-- https://winniebluemanagement.com/
-
+- https://winnie-amber.vercel.app/
 ---
 
 
