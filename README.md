@@ -24,7 +24,7 @@ Feel free to contact me and say hi on discord!
 - https://vfleetproject.com
 - https://vir2alverse.com/
 - https://pixel-link-170504.vercel.app
-- https://vartix3d.vercel.app
+- https://vartix.vercel.app
 - https://realmofora.com
 - https://nikulaswraith.com
 - https://classic.nikulaswraith.com
