@@ -1,6 +1,5 @@
-# Welcome to my GitHub Page!
 
-## 👋 I'm Shubamium
+# Hi hi, 👋 I'm Shubamium
 I'm a software engineer, 5⭐ Fiverr freelancer with 3+ years of experience delivering high quality sites for clients in the VTuber industry.
 
 `Typescript` and `Next.JS` is my bread and butter, but I'm always learning new things that help me build whatever I want.
