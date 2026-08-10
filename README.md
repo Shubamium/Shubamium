@@ -58,7 +58,6 @@ Feel free to contact me and say hi on discord!
 - https://nhengen.netlify.app/
 - https://yoimiya.vercel.app
 - https://talala.vercel.app/
-- https://revlive.venmiart.com/
 - https://venmiart.com
 
 ---
